@@ -30,13 +30,14 @@ II. Steps:
   - 3.1: Describe the portrait of customers and provide insights into their behavior: Who are the people buying products? Which location do they live in? Which channel are they purchasing from? What makes them buy?
   - 3.2: Using the RFM Model, segment customers into different groups
   - 3.3: Calculate customer life value (CLV)
-  - 3.4: Recommendations: How to engage and attract new customers or lapers? How to increase frequency for repeated users?
+  - 3.4: Recommendations: How to engage and attract new customers or lappers? How to increase the frequency for repeated users?
 
   4. Generate the report
   - 4.1: Write a completed report based on what we have found.
   - 4.2: Combine with Domain Knowledge (BCG Matrix)
 
 III. Tools:
+- Python: pandas, datetime, apply lambda
 - SQL
 - Power BI Desktop
 - PowerPoint
